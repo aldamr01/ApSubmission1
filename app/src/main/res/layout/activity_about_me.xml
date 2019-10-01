@@ -81,7 +81,7 @@
         android:textSize="5pt"
         android:textColor="@color/MyrtleGreen"
         android:textAlignment="center"
-        android:text="github.com/aldamr01"
+        android:text="aldionamirrul@gmail.com\ngithub.com/aldamr01"
         android:textStyle="italic"/>
 
 
